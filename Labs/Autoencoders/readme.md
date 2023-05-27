@@ -9,9 +9,7 @@ The autoencoder is trained to reconstruct the input images with a bottleneck lay
 ##### Jupyter Notebook
 
 ### Clone the repository:
-
-
-git clone https://github.com/DevaSunder/Machine-Learning/tree/main/Labs/Autoencoders
+Repo Link : https://github.com/DevaSunder/Machine-Learning/tree/main/Labs/Autoencoders
 
 ### Run the code
 Open the Jupyter Notebook:
